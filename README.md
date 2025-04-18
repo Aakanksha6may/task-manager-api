@@ -1,5 +1,11 @@
 # Task Manager API
 
+![Build Status](https://img.shields.io/github/workflow/status/Aakanksha6may/task-manager-api/CI?label=Build)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Dependencies](https://img.shields.io/david/Aakanksha6may/task-manager-api)
+![Dev Dependencies](https://img.shields.io/david/dev/Aakanksha6may/task-manager-api)
+
 A simple, secure, and efficient **Task Manager API** built with **Flask**, using **JWT authentication**, and connected to a **PostgreSQL** database. This API allows users to manage tasks with complete CRUD operations.
 
 ---
